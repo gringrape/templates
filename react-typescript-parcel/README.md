@@ -1,6 +1,6 @@
-# React + typescript + esbuild 
-이 실습은 다음 예제를 참고하였습니다.
-https://github.com/ahastudio/CodingLife/tree/main/20211008/react
+# React + TypeScript + Parcel
+이 실습은 다음 예제를 참고하였습니다. 
+-> https://github.com/ahastudio/CodingLife/tree/main/20211008/react
 
 ## NPM 프로젝트 생성
 ```bash
